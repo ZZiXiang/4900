@@ -1,0 +1,35 @@
+body{
+	/*width: 1000px;*/
+	/*margin: 0 auto;
+*/
+	width: 800px;
+	background-color: #FFCC99;
+}
+
+
+
+.wrapper{
+	width:800;
+	/*background-color: white;*/
+	/*height: 600px;*/
+	margin: 0px auto;
+}
+.interest{
+	width:360px;
+	height:430px;
+	margin:10px 10px;
+	padding:0px 10px;
+	background-color: #FFE5CC;
+	float:left;
+	display: block;
+}
+.interestPic{
+	width:340px;
+	display: block;
+	margin: 20px auto;
+}
+p.interestDis{
+	text-align: center;
+	size:30%;
+}
+
